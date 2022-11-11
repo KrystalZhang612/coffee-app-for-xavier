@@ -19,7 +19,7 @@ A SwiftUI Coffee Showcase App that I made for my friend Xavier's birthday.
 
 
 # Build
-[Method to Run & Test the Project Locally]()<br/> 
+[Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KrystalZhang-coffee-app-for-xavier/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
 [Tags and Topics]()<br/>
 # Contribution
 [Author]()
