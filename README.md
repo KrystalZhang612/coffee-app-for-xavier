@@ -32,4 +32,15 @@ A SwiftUI Coffee Showcase App that I made for my friend Xavier's birthday.
 | macOS Monterey   | ✅                 |
 
 # Method to Run & Test the Project Locally
+### Download the entire project to local directory
+### Xcode must be `13.4` and higher versions with all Xcode dependencies updated.
+### Compatible with `MacOS Monterey 12.0` or higher versions
+### Run the project, choose Simulator `iPhone 14` or `iPhone 14 Pro` for best compatiability.
+
+
+
+
+
+
+
 
