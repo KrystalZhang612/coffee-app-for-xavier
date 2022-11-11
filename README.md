@@ -31,5 +31,5 @@ A SwiftUI Coffee Showcase App that I made for my friend Xavier's birthday.
 | macOS Mojave     | ✅                 |
 | macOS Monterey   | ✅                 |
 
-
+# Method to Run & Test the Project Locally
 
