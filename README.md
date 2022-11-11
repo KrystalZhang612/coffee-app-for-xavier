@@ -1,4 +1,4 @@
-# Coffee Showcase App SwiftUI 
+# KrystalZhang-SwiftUI Coffee Showcase App 
 A SwiftUI Coffee Showcase App that I made for my friend Xavier's birthday.
 
              
