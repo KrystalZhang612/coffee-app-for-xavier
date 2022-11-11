@@ -163,6 +163,3 @@ struct CoffeeView: View{
         .frame(height: cardSize)
     }
 }
-
-
-
