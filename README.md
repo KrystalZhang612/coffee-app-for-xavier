@@ -20,7 +20,7 @@ A SwiftUI Coffee Showcase App that I made for my friend Xavier's birthday.
 
 # Build
 [Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KrystalZhang-coffee-app-for-xavier/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
-[Tags and Topics]()<br/>
+[Tags and Topics](https://github.com/KrystalZhang612/KrystalZhang-coffee-app-for-xavier/blob/main/README.md#tags-and-topics)<br/>
 # Contribution
 [Author]()
 # Compatibility
@@ -47,6 +47,7 @@ A SwiftUI Coffee Showcase App that I made for my friend Xavier's birthday.
 </div>
 
 # Tags and Topics
+swiftui, xcode, swift, swift5, uikit, cgrect, coffee-showcase-app.
  
 
 
