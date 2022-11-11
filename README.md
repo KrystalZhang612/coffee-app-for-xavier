@@ -21,4 +21,9 @@ A SwiftUI Coffee Showcase App that I made for my friend Xavier's birthday.
 # Build
 [Method to Run & Test the Project Locally]()<br/> 
 [Tags and Topics]()<br/>
+# Contribution
+[Author]()
+# Compatibility
+
+
 
