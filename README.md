@@ -8,6 +8,7 @@ A SwiftUI Coffee Showcase App that I made for my friend Xavier's birthday.
 ### ***Please carefully read [LICENSE.md](https://github.com/KrystalZhang612/KrystalZhang-coffee-app-for-xavier/blob/main/LICENSE) about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html), any commericial uses on this project by other than the owner [@KrystalZhang612](https://github.com/KrystalZhang612) or the authorized users and organizations, will be subjected to copyright violation with sebsequent potential legal concerns.***
         
 <p align = "center"> 
+       
         <img src ="https://github.com/KrystalZhang612/KrystalZhang-coffee-app-for-xavier/blob/main/testing-result-coffee-app-for-xavier/CoffeeAppOverview.mov" width="380" height="841"/>&nbsp; 
         <img src ="https://github.com/KrystalZhang612/KrystalZhang-coffee-app-for-xavier/blob/main/testing-result-coffee-app-for-xavier/CoffeeAppOverview1.PNG" width = "380" height ="841"/>&nbsp; 
         <img src = "https://github.com/KrystalZhang612/KrystalZhang-coffee-app-for-xavier/blob/main/testing-result-coffee-app-for-xavier/CoffeeAppOverview2.PNG"  width = "380" height ="841"/>&nbsp;
